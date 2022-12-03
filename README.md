@@ -1,5 +1,4 @@
-# modelo-vitrinedev
-# Página Principal Alura Plus+
+# Página Principal Alura Plus +
 
 
 | :placard: Vitrine.Dev |     |
